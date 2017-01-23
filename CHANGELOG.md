@@ -1,5 +1,9 @@
 # Python Buildpack Changelog
 
+## 98 - fenrrir
+
+- Updated setuptools to v34.0.0.
+
 ## 97
 
 Improved egg-link functionality.
