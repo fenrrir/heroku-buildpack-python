@@ -2,7 +2,7 @@
 
 ## 98 - fenrrir
 
-- Updated setuptools to v34.0.0.
+- Updated setuptools to v33.1.1.
 
 ## 97
 
